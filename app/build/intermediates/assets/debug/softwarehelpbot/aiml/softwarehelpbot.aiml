@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	
+	<!-- insert your AIML categories here -->
+	
+	<category>
+    <pattern> browser </pattern>
+    <template><random>
+        <li>A slow or laggy browser could be due to unwanted extensions - Try removing unwanted extensions (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to, too many many browser tabs or sessions being open at the same time - Try removing the tabs or adding more Ram to your sytem (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to malware on your system - Try scanning your system with a anti virus software to find any unwanted viruses (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to cluttered temporary internet files - Try using your systems built in disk cleaner (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* browser *</pattern>
+    <template><random>
+        <li>A slow or laggy browser could be due to unwanted extensions - Try removing unwanted extensions (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to, too many many browser tabs or sessions being open at the same time - Try removing the tabs or adding more Ram to your sytem (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to malware on your system - Try scanning your system with a anti virus software to find any unwanted viruses (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to cluttered temporary internet files - Try using your systems built in disk cleaner (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>browser *</pattern>
+    <template><random>
+        <li>A slow or laggy browser could be due to unwanted extensions - Try removing unwanted extensions (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to, too many many browser tabs or sessions being open at the same time - Try removing the tabs or adding more Ram to your sytem (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to malware on your system - Try scanning your system with a anti virus software to find any unwanted viruses (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to cluttered temporary internet files - Try using your systems built in disk cleaner (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* browser</pattern>
+    <template><random>
+       <li>A slow or laggy browser could be due to unwanted extensions - Try removing unwanted extensions (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to, too many many browser tabs or sessions being open at the same time - Try removing the tabs or adding more Ram to your sytem (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to malware on your system - Try scanning your system with a anti virus software to find any unwanted viruses (Still not working? Ask again for another solution!) </li>
+        <li>A slow or laggy browser could be due to cluttered temporary internet files - Try using your systems built in disk cleaner (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* ads *</pattern>
+    <template><random>
+        <li>The popup ads on your system or browser could be due to malicious software on your system adware - try downloading an anti virus and scanning the system for viruses (Still not working? Ask again for another solution!).</li>
+        <li> The popup ads on your system or browser could be due to a tech scam warning you about fake problems on your system - Best thing is to leave the current site you are recieving the virues on (Still not working? Ask again for another solution!)</li>
+         <li> If the popup ads on your system have got your system locked this could be due to randsomware which is malicious software that blocks your files and demands money - to deal with randsomware try downloading anti randsomwware software (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>ads *</pattern>
+    <template><random>
+         <li>The popup ads on your system or browser could be due to malicious software on your system adware - try downloading an anti virus and scanning the system for viruses (Still not working? Ask again for another solution!).</li>
+        <li> The popup ads on your system or browser could be due to a tech scam warning you about fake problems on your system - Best thing is to leave the current site you are recieving the virues on (Still not working? Ask again for another solution!)</li>
+         <li> If the popup ads on your system have got your system locked this could be due to randsomware which is malicious software that blocks your files and demands money - to deal with randsomware try downloading anti randsomwware software (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* ads</pattern>
+    <template><random>
+          <li>The popup ads on your system or browser could be due to malicious software on your system adware - try downloading an anti virus and scanning the system for viruses (Still not working? Ask again for another solution!).</li>
+        <li> The popup ads on your system or browser could be due to a tech scam warning you about fake problems on your system - Best thing is to leave the current site you are recieving the virues on (Still not working? Ask again for another solution!)</li>
+         <li> If the popup ads on your system have got your system locked this could be due to randsomware which is malicious software that blocks your files and demands money - to deal with randsomware try downloading anti randsomwware software (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* freezing *</pattern>
+    <template><random>
+        <li>The reason your system keeps on freezing could be to, too many programs being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on freezing could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on freezing could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be freezing could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>freezing *</pattern>
+    <template><random>
+         <li>The reason your system keeps on freezing could be to, too many programs being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on freezing could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on freezing could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be freezing could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* freezing</pattern>
+    <template><random>
+         <li>The reason your system keeps on freezing could be to, too many programs being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on freezing could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on freezing could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be freezing could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* files *</pattern>
+    <template><random>
+        <li>The reason your files could be taking a long to download could be due to slow internet speed - try calling your broadband provider to get any information about your possible weak internet. (Still not working? Ask again for another solution!)</li>
+        <li> The reason your files could be taking a long time to download could be due to the settings not allowing the downloads to be read quickly - try cleaning out the registry. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your files could be taking a long time to download could be due to the server - try downloading the files from a different website or a different </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>files *</pattern>
+    <template><random>
+       <li>The reason your files could be taking a long to download could be due to slow internet speed - try calling your broadband provider to get any information about your possible weak internet. (Still not working? Ask again for another solution!)</li>
+        <li> The reason your files could be taking a long time to download could be due to the settings not allowing the downloads to be read quickly - try cleaning out the registry. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your files could be taking a long time to download could be due to the server - try downloading the files from a different website or a different </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* files</pattern>
+    <template><random>
+        <li>The reason your files could be taking a long to download could be due to slow internet speed - try calling your broadband provider to get any information about your possible weak internet. (Still not working? Ask again for another solution!)</li>
+        <li> The reason your files could be taking a long time to download could be due to the settings not allowing the downloads to be read quickly - try cleaning out the registry. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your files could be taking a long time to download could be due to the server - try downloading the files from a different website or a different </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* lagging *</pattern>
+    <template><random>
+        <li>The reason your system keeps on lagging could be to, too many prgrams being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on lagging could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on lagging could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be lagging could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>lagging *</pattern>
+    <template><random>
+        <li>The reason your system keeps on lagging could be to, too many prgrams being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on lagging could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on lagging could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be lagging could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* lagging</pattern>
+    <template><random>
+        <li>The reason your system keeps on lagging could be to, too many programs being closed - try closing down some on going programs and webpages or try adding more ram to your system.(Still not working? Ask again for another solution!) </li>
+        <li> The reason your system keeps on lagging could be due your system overheating - if your system keeps on overheating try and exit the demanding program you are using or use a can of compressed air in order to clear any dust around your computers fan. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system keeps on lagging could be due to software errors as some application may take up more memory to perform actions your operating system wont understand - try updating all third party software installed on your system. (Still not working? Ask again for another solution!)</li>
+        <li>The reason your system could be lagging could be due to outdated or damaged drivers which are important for communication within your system - try updating or repairing damaged drivers. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* boot *</pattern>
+    <template><random>
+        <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system upin safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+        
+    </random></template>
+</category>
+
+<category>
+    <pattern>boot *</pattern>
+    <template><random>
+         <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system up in safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* boot</pattern>
+    <template><random>
+         <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system up in safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* turn on *</pattern>
+    <template><random>
+         <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system up in safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>turn on *</pattern>
+    <template><random>
+         <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system up in safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* turn on</pattern>
+    <template><random>
+        <li>The reason your system wont boot up or turn on could be due to your battery - try taking your battery out and placing it back in, also test out if the charger is working.(Still not working? Ask again for another solution!)</li>
+        <li> If your system wont turn on or boot up try starting your system up in safe mode. (Still not working? Ask again for another solution!) </li>
+        <li> If your system wont turn on or boot up this could be due to usb's conflicting with your system - try unplugging all your usb devices from your system and restarting your computer. (Still not working? Ask again for another solution!) </li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* sound *</pattern>
+    <template><random>
+        <li>If your system sound is not working it could be because of outdated sound drivers - try checking if all your sound drivers are up to date. (Still not working? Ask again for another solution!)</li>
+        <li> If your system sound is not working try restarting your device. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume controls in your operating system and also check your external speakers as many people accidently put their system volume on mute without knowing. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume in the application as accidently muting the browser or application is very common. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>sound *</pattern>
+    <template><random>
+       <li>If your system sound is not working it could be because of outdated sound drivers - try checking if all your sound drivers are up to date. (Still not working? Ask again for another solution!)</li>
+        <li> If your system sound is not working try restarting your device. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume controls in your operating system and also check your external speakers as many people accidently put their system volume on mute without knowing. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume in the application as accidently muting the browser or application is very common. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+<category>
+    <pattern>* sound</pattern>
+    <template><random>
+         <li>If your system sound is not working it could be because of outdated sound drivers - try checking if all your sound drivers are up to date. (Still not working? Ask again for another solution!)</li>
+        <li> If your system sound is not working try restarting your device. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume controls in your operating system and also check your external speakers as many people accidently put their system volume on mute without knowing. (Still not working? Ask again for another solution!)</li>
+        <li> If your device sound is not working try checking your volume in the application as accidently muting the browser or application is very common. (Still not working? Ask again for another solution!)</li>
+    </random></template>
+</category>
+
+
+
+
+
+
+
+</aiml>
